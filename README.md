@@ -40,20 +40,22 @@ Find tailored medications and diets for specific ailments.
 Usage
 Clone the repository:
 
-sh
-Copy code
+```sh
+
 git clone https://github.com/yourusername/medvision-pro.git
 cd medvision-pro
-Install dependencies:
+```
 
-sh
-Copy code
+Install dependencies:
+```sh
+
 pip install -r requirements.txt
+```
 Run the Streamlit app:
 
-sh
-Copy code
+```sh
 streamlit run app.py
+```
 Navigate through the tabs to explore different features:
 
 Home: Overview of the application and its features.
