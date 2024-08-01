@@ -42,7 +42,7 @@ Clone the repository:
 
 ```sh
 
-git clone https://github.com/yourusername/medvision-pro.git
+git clone https://github.com/NEGRAH-S/Python_cancer.git
 cd medvision-pro
 ```
 
