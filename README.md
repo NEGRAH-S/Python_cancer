@@ -1,41 +1,37 @@
-HEy will add instruction to use it on local as well as project synopsis here
-yess
-MEDvision PRO+
+
+# MEDvision PRO+
 MEDvision PRO+ is a comprehensive health companion web application built using Streamlit. This app provides functionalities for predicting various diseases based on symptoms, diabetes prediction, heart disease prediction, and breast cancer prediction. Additionally, it offers medications and diets recommendations for specific ailments.
 
-Table of Contents
-Introduction
-Technologies Used
-Features
-Usage
-Future Prospects
-Contributing
-License
-Introduction
+## Table of Contents
+- Introduction
+- Technologies Used
+- Features
+- Usage
+- Future Prospects
+- Contributing
+- License
+
+#### Introduction
 MEDvision PRO+ aims to provide users with a tool to predict and diagnose various diseases, and suggest medications and diets for better health management. It uses trained machine learning models for accurate predictions.
 
-Technologies Used
-Python
-Streamlit
-Pandas
-NumPy
-Scikit-learn
-Pickle
-Features
-Disease Diagnosis
-Predict diseases based on symptoms selected by the user.
+#### Technologies Used
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- Pickle
 
-Diabetes Prediction
-Input relevant health metrics to predict the likelihood of diabetes.
+#### Features
+- Disease Diagnosis: Predict diseases based on symptoms selected by the user.
 
-Heart Disease Prediction
-Assess the risk of heart disease using user-provided data.
+- Diabetes Prediction: Input relevant health metrics to predict the likelihood of diabetes.
 
-Breast Cancer Prediction
-Predict the probability of breast cancer occurrence based on specific health parameters.
+- Heart Disease Prediction: Assess the risk of heart disease using user-provided data.
 
-Medications & Diets
-Find tailored medications and diets for specific ailments.
+- Breast Cancer Prediction: Predict the probability of breast cancer occurrence based on specific health parameters.
+
+- Medications & Diets: Find tailored medications and diets for specific ailments.
 
 Usage
 Clone the repository:
